@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi 👋, I'm Harkeerat Singh
-### CSE Sophomore @ IIIT Pune | Open Source Contributor
+### GSoC'26 @ CircuitVerse | CSE Pre-Final Year @ IIIT Pune 
 
 <a href="https://www.linkedin.com/in/harkeerat-singh-cse/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
